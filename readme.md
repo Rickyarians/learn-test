@@ -15,4 +15,4 @@ $ npm run android
 ```
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtube.com/shorts/4VVf9glPnhE?feature=share)
+[![IMAGE ALT TEXT HERE](https://youtube.com/shorts/4VVf9glPnhE?feature=share)](https://youtube.com/shorts/4VVf9glPnhE?feature=share)
