@@ -5,7 +5,6 @@ import { enableScreens } from 'react-native-screens';
 import BottomTabNavigator from './tabs-nav';
 import { HomePageScr } from 'app/modules/main-menu';
 import { Notif } from 'app/modules/notifications';
-import {DokumenKendaraanScr, ChangePinScr, PinChange, PinVerifyChange } from 'app/modules/setting';
 import {
   VerifNumber,
   SplashScreen,
@@ -39,7 +38,6 @@ function Routes() {
     <NavigationContainer>
       <PrivateStack.Navigator screenOptions={screenOptions}>
         <PrivateStack.Screen name="Main" component={BottomTabNavigator} />
-        <PrivateStack.Screen name="DokumenKendaraanSaya" component={DokumenKendaraanScr} />
         <PrivateStack.Screen name="HomePage" component={HomePageScr} />
         <PrivateStack.Screen name="Notif" component={Notif} />
      

@@ -92,7 +92,7 @@ const VerifPIN: React.FC<PropsRoute> = ({ route }) => {
             pinCount={6}
             secureTextEntry
             code={code} //You can supply this prop or not. The component will be used as a controlled / uncontrolled component respectively.
-            onCodeChanged={code => {
+            onCodeChanged={(code: any) => {
               setCode(code);
             }}
             autoFocusOnLoad

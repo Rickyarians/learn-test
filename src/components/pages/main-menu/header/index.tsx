@@ -54,20 +54,11 @@ export const HeaderHomeScr: React.FC = () => {
     navigate('Notif');
   };
 
-  const _goToPayment = () => {
-    navigate('Payment');
-  };
 
-  const onUpdateFeature = () => {
-    refModal.current.open();
-  };
-  console.warn(ktp_data.foto)
+
   return (
     <View style={styles.container}>
-      <Image
-        source={images.banner.header}
-        style={{ width: '100%', height: '100%', left: 80, top: 0, position: 'absolute' }}
-      />
+     
       <View style={styles.row}>
         <View style={{ height: 60, width: 60, borderRadius: 100}}>
           <Image
@@ -91,9 +82,7 @@ export const HeaderHomeScr: React.FC = () => {
               {/* <TouchableOpacity style={{ marginVertical: 10, marginHorizontal: 10 }} onPress={() => _goToPayment()}>
                 <Wallet fill={colors.light} />
               </TouchableOpacity> */}
-              <TouchableOpacity style={{ marginVertical: 10, marginHorizontal: 10, height: 20, width: 30 }} onPress={() => onUpdateFeature()}>
-                <Wallet fill={colors.light} />
-              </TouchableOpacity>
+             
             </View>
           </View>
         </View>
