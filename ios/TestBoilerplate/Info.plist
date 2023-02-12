@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>skrip</string>
+	<string>Test-Boilerplate</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -53,7 +53,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Granting access will allow you to log into the app with facial recognition and register an account, all uploaded photos will be stored on our secure server</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Granting access will allow you to enter the application by voice recognition, all uploaded files will be stored on our secure server</string>
 	<key>NSPhotoLibraryUsageDescription</key>

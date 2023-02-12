@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* skripTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* skripTests.m */; };
-		0E0EED8A0FFFCCF64030F9EC /* libPods-skrip-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 89D6A091ACC7358D8368939C /* libPods-skrip-tvOS.a */; };
+		00E356F31AD99517003FC87E /* TestBoilerplateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TestBoilerplateTests.m */; };
+		0E0EED8A0FFFCCF64030F9EC /* libPods-TestBoilerplate-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 89D6A091ACC7358D8368939C /* libPods-TestBoilerplate-tvOS.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -16,16 +16,16 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* skripTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* skripTests.m */; };
+		2DCD954D1E0B4F2C00145EB5 /* TestBoilerplateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TestBoilerplateTests.m */; };
 		4399C49E19BA4FD69DD9DC2F /* Nunito-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA2ED6EF04514C669FAF2F55 /* Nunito-Light.ttf */; };
 		51C15E0E5CE54165B39BBD6C /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4074242129EC4CF38A9BD2D9 /* Nunito-Regular.ttf */; };
 		6B062E92A6A94EC18CC2FD53 /* Nunito-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FBF6BDBC5674825A16026C8 /* Nunito-SemiBold.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		921309C7721F461499C967CC /* Nunito-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 513AD007E5B04242AEF88389 /* Nunito-ExtraBold.ttf */; };
 		B5CADF6ADC28469FA343C453 /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BF1B9A95FDBC45BCBDF551C5 /* Nunito-Bold.ttf */; };
-		C789BF6B010E97E25A4FDDA8 /* libPods-skrip-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E741A9B0316438691F17DB3 /* libPods-skrip-tvOSTests.a */; };
-		EE512931BD479DD125C629F0 /* libPods-skrip.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FE43509CF45E07AF8F5EA3 /* libPods-skrip.a */; };
-		F212F4268C36EC4690C6819C /* libPods-skrip-skripTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0462796A0AB633F5A07D55E4 /* libPods-skrip-skripTests.a */; };
+		C789BF6B010E97E25A4FDDA8 /* libPods-TestBoilerplate-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E741A9B0316438691F17DB3 /* libPods-TestBoilerplate-tvOSTests.a */; };
+		EE512931BD479DD125C629F0 /* libPods-TestBoilerplate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B4FE43509CF45E07AF8F5EA3 /* libPods-TestBoilerplate.a */; };
+		F212F4268C36EC4690C6819C /* libPods-TestBoilerplate-TestBoilerplateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0462796A0AB633F5A07D55E4 /* libPods-TestBoilerplate-TestBoilerplateTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,50 +34,50 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = skrip;
+			remoteInfo = "TestBoilerplate";
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "skrip-tvOS";
+			remoteInfo = "TestBoilerplate-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* skripTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = skripTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* TestBoilerplateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TestBoilerplateTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* skripTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = skripTests.m; sourceTree = "<group>"; };
-		0462796A0AB633F5A07D55E4 /* libPods-skrip-skripTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-skrip-skripTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		08DD61C34D7476D3DC663412 /* Pods-skrip.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-skrip.debug.xcconfig"; path = "Target Support Files/Pods-skrip/Pods-skrip.debug.xcconfig"; sourceTree = "<group>"; };
-		0D39CF27D6DB33A796DFCD0D /* Pods-skrip-skripTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-skrip-skripTests.debug.xcconfig"; path = "Target Support Files/Pods-skrip-skripTests/Pods-skrip-skripTests.debug.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* skrip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = skrip.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = skrip/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = skrip/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = skrip/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = skrip/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = skrip/main.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* TestBoilerplateTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "TestBoilerplateTests.m"; sourceTree = "<group>"; };
+		0462796A0AB633F5A07D55E4 /* libPods-TestBoilerplate-TestBoilerplateTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestBoilerplate-TestBoilerplateTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		08DD61C34D7476D3DC663412 /* Pods-TestBoilerplate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestBoilerplate.debug.xcconfig"; path = "Target Support Files/Pods-TestBoilerplate/Pods-TestBoilerplate.debug.xcconfig"; sourceTree = "<group>"; };
+		0D39CF27D6DB33A796DFCD0D /* Pods-TestBoilerplate-TestBoilerplateTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestBoilerplate-TestBoilerplateTests.debug.xcconfig"; path = "Target Support Files/Pods-TestBoilerplate-TestBoilerplateTests/Pods-TestBoilerplate-TestBoilerplateTests.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* TestBoilerplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TestBoilerplate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "TestBoilerplate/AppDelegate.h"; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = TestBoilerplate/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "TestBoilerplate/Images.xcassets"; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "TestBoilerplate/Info.plist"; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "TestBoilerplate/main.m"; sourceTree = "<group>"; };
 		28ADD78B2739BDF800F7DE1C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* skrip-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "skrip-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* skrip-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "skrip-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		393D9D791B6D1BDA425DEBCA /* Pods-skrip-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-skrip-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-skrip-tvOSTests/Pods-skrip-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* TestBoilerplate-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TestBoilerplate-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* TestBoilerplate-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TestBoilerplate-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		393D9D791B6D1BDA425DEBCA /* Pods-TestBoilerplate-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestBoilerplate-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-TestBoilerplate-tvOSTests/Pods-TestBoilerplate-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		4074242129EC4CF38A9BD2D9 /* Nunito-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-Regular.ttf"; path = "../src/assets/fonts/Nunito-Regular.ttf"; sourceTree = "<group>"; };
 		513AD007E5B04242AEF88389 /* Nunito-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-ExtraBold.ttf"; path = "../src/assets/fonts/Nunito-ExtraBold.ttf"; sourceTree = "<group>"; };
-		5E741A9B0316438691F17DB3 /* libPods-skrip-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-skrip-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5F5A69BE62CDA6A0DDD78C29 /* Pods-skrip-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-skrip-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-skrip-tvOS/Pods-skrip-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		73C45A25273F8B5A000480DD /* skrip.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = skrip.entitlements; path = skrip/skrip.entitlements; sourceTree = "<group>"; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = skrip/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89D6A091ACC7358D8368939C /* libPods-skrip-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-skrip-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E741A9B0316438691F17DB3 /* libPods-TestBoilerplate-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestBoilerplate-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F5A69BE62CDA6A0DDD78C29 /* Pods-TestBoilerplate-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestBoilerplate-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-TestBoilerplate-tvOS/Pods-TestBoilerplate-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		73C45A25273F8B5A000480DD /* TestBoilerplate.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = TestBoilerplate.entitlements; path = TestBoilerplate/TestBoilerplate.entitlements; sourceTree = "<group>"; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "TestBoilerplate/LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		89D6A091ACC7358D8368939C /* libPods-TestBoilerplate-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestBoilerplate-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FBF6BDBC5674825A16026C8 /* Nunito-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-SemiBold.ttf"; path = "../src/assets/fonts/Nunito-SemiBold.ttf"; sourceTree = "<group>"; };
-		974E5556CBCD6142DCEEA0EB /* Pods-skrip.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-skrip.release.xcconfig"; path = "Target Support Files/Pods-skrip/Pods-skrip.release.xcconfig"; sourceTree = "<group>"; };
-		A84D9D512FB910EC1EBA4912 /* Pods-skrip-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-skrip-tvOS.release.xcconfig"; path = "Target Support Files/Pods-skrip-tvOS/Pods-skrip-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		974E5556CBCD6142DCEEA0EB /* Pods-TestBoilerplate.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestBoilerplate.release.xcconfig"; path = "Target Support Files/Pods-TestBoilerplate/Pods-TestBoilerplate.release.xcconfig"; sourceTree = "<group>"; };
+		A84D9D512FB910EC1EBA4912 /* Pods-TestBoilerplate-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestBoilerplate-tvOS.release.xcconfig"; path = "Target Support Files/Pods-TestBoilerplate-tvOS/Pods-TestBoilerplate-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		AA2ED6EF04514C669FAF2F55 /* Nunito-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-Light.ttf"; path = "../src/assets/fonts/Nunito-Light.ttf"; sourceTree = "<group>"; };
-		B4FE43509CF45E07AF8F5EA3 /* libPods-skrip.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-skrip.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4FE43509CF45E07AF8F5EA3 /* libPods-TestBoilerplate.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TestBoilerplate.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF1B9A95FDBC45BCBDF551C5 /* Nunito-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-Bold.ttf"; path = "../src/assets/fonts/Nunito-Bold.ttf"; sourceTree = "<group>"; };
-		E8C5B1A0FD1B4D2EF6CF0FC1 /* Pods-skrip-skripTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-skrip-skripTests.release.xcconfig"; path = "Target Support Files/Pods-skrip-skripTests/Pods-skrip-skripTests.release.xcconfig"; sourceTree = "<group>"; };
-		EB23479AE43C9372EFCBAFF4 /* Pods-skrip-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-skrip-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-skrip-tvOSTests/Pods-skrip-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		E8C5B1A0FD1B4D2EF6CF0FC1 /* Pods-TestBoilerplate-TestBoilerplateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestBoilerplate-TestBoilerplateTests.release.xcconfig"; path = "Target Support Files/Pods-TestBoilerplate-TestBoilerplateTests/Pods-TestBoilerplate-TestBoilerplateTests.release.xcconfig"; sourceTree = "<group>"; };
+		EB23479AE43C9372EFCBAFF4 /* Pods-TestBoilerplate-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestBoilerplate-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-TestBoilerplate-tvOSTests/Pods-TestBoilerplate-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -87,7 +87,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F212F4268C36EC4690C6819C /* libPods-skrip-skripTests.a in Frameworks */,
+				F212F4268C36EC4690C6819C /* libPods-TestBoilerplate-TestBoilerplateTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -95,7 +95,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE512931BD479DD125C629F0 /* libPods-skrip.a in Frameworks */,
+				EE512931BD479DD125C629F0 /* libPods-TestBoilerplate.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -103,7 +103,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0E0EED8A0FFFCCF64030F9EC /* libPods-skrip-tvOS.a in Frameworks */,
+				0E0EED8A0FFFCCF64030F9EC /* libPods-TestBoilerplate-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,20 +111,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C789BF6B010E97E25A4FDDA8 /* libPods-skrip-tvOSTests.a in Frameworks */,
+				C789BF6B010E97E25A4FDDA8 /* libPods-TestBoilerplate-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* skripTests */ = {
+		00E356EF1AD99517003FC87E /* TestBoilerplateTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* skripTests.m */,
+				00E356F21AD99517003FC87E /* TestBoilerplateTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = skripTests;
+			path = "TestBoilerplateTests";
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -135,10 +135,10 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* skrip */ = {
+		13B07FAE1A68108700A75B9A /* TestBoilerplate */ = {
 			isa = PBXGroup;
 			children = (
-				73C45A25273F8B5A000480DD /* skrip.entitlements */,
+				73C45A25273F8B5A000480DD /* TestBoilerplate.entitlements */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
@@ -147,7 +147,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = skrip;
+			name = "TestBoilerplate";
 			sourceTree = "<group>";
 		};
 		283B906C2737A818000D2C86 /* Recovered References */ = {
@@ -162,10 +162,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				B4FE43509CF45E07AF8F5EA3 /* libPods-skrip.a */,
-				0462796A0AB633F5A07D55E4 /* libPods-skrip-skripTests.a */,
-				89D6A091ACC7358D8368939C /* libPods-skrip-tvOS.a */,
-				5E741A9B0316438691F17DB3 /* libPods-skrip-tvOSTests.a */,
+				B4FE43509CF45E07AF8F5EA3 /* libPods-TestBoilerplate.a */,
+				0462796A0AB633F5A07D55E4 /* libPods-TestBoilerplate-TestBoilerplateTests.a */,
+				89D6A091ACC7358D8368939C /* libPods-TestBoilerplate-tvOS.a */,
+				5E741A9B0316438691F17DB3 /* libPods-TestBoilerplate-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -181,9 +181,9 @@
 			isa = PBXGroup;
 			children = (
 				28ADD78B2739BDF800F7DE1C /* GoogleService-Info.plist */,
-				13B07FAE1A68108700A75B9A /* skrip */,
+				13B07FAE1A68108700A75B9A /* TestBoilerplate */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* skripTests */,
+				00E356EF1AD99517003FC87E /* TestBoilerplateTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				EDD191F4AC70C2458C4B6E4A /* Pods */,
@@ -198,10 +198,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* skrip.app */,
-				00E356EE1AD99517003FC87E /* skripTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* skrip-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* skrip-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* TestBoilerplate.app */,
+				00E356EE1AD99517003FC87E /* TestBoilerplateTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* TestBoilerplate-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* TestBoilerplate-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -221,14 +221,14 @@
 		EDD191F4AC70C2458C4B6E4A /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				08DD61C34D7476D3DC663412 /* Pods-skrip.debug.xcconfig */,
-				974E5556CBCD6142DCEEA0EB /* Pods-skrip.release.xcconfig */,
-				0D39CF27D6DB33A796DFCD0D /* Pods-skrip-skripTests.debug.xcconfig */,
-				E8C5B1A0FD1B4D2EF6CF0FC1 /* Pods-skrip-skripTests.release.xcconfig */,
-				5F5A69BE62CDA6A0DDD78C29 /* Pods-skrip-tvOS.debug.xcconfig */,
-				A84D9D512FB910EC1EBA4912 /* Pods-skrip-tvOS.release.xcconfig */,
-				393D9D791B6D1BDA425DEBCA /* Pods-skrip-tvOSTests.debug.xcconfig */,
-				EB23479AE43C9372EFCBAFF4 /* Pods-skrip-tvOSTests.release.xcconfig */,
+				08DD61C34D7476D3DC663412 /* Pods-TestBoilerplate.debug.xcconfig */,
+				974E5556CBCD6142DCEEA0EB /* Pods-TestBoilerplate.release.xcconfig */,
+				0D39CF27D6DB33A796DFCD0D /* Pods-TestBoilerplate-TestBoilerplateTests.debug.xcconfig */,
+				E8C5B1A0FD1B4D2EF6CF0FC1 /* Pods-TestBoilerplate-TestBoilerplateTests.release.xcconfig */,
+				5F5A69BE62CDA6A0DDD78C29 /* Pods-TestBoilerplate-tvOS.debug.xcconfig */,
+				A84D9D512FB910EC1EBA4912 /* Pods-TestBoilerplate-tvOS.release.xcconfig */,
+				393D9D791B6D1BDA425DEBCA /* Pods-TestBoilerplate-tvOSTests.debug.xcconfig */,
+				EB23479AE43C9372EFCBAFF4 /* Pods-TestBoilerplate-tvOSTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -236,9 +236,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* skripTests */ = {
+		00E356ED1AD99517003FC87E /* TestBoilerplateTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "skripTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "TestBoilerplateTests" */;
 			buildPhases = (
 				2C03957A6FDE3002696B48A3 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -251,14 +251,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = skripTests;
-			productName = skripTests;
-			productReference = 00E356EE1AD99517003FC87E /* skripTests.xctest */;
+			name = TestBoilerplateTests;
+			productName = TestBoilerplateTests;
+			productReference = 00E356EE1AD99517003FC87E /* TestBoilerplateTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* skrip */ = {
+		13B07F861A680F5B00A75B9A /* TestBoilerplate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "skrip" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "TestBoilerplate" */;
 			buildPhases = (
 				74DD8EA9311BD7002B557617 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -273,14 +273,14 @@
 			);
 			dependencies = (
 			);
-			name = skrip;
-			productName = skrip;
-			productReference = 13B07F961A680F5B00A75B9A /* skrip.app */;
+			name = "TestBoilerplate";
+			productName = "TestBoilerplate";
+			productReference = 13B07F961A680F5B00A75B9A /* TestBoilerplate.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* skrip-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* TestBoilerplate-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "skrip-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "TestBoilerplate-tvOS" */;
 			buildPhases = (
 				8D8C96037E02CE4E6055CAFB /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -293,14 +293,14 @@
 			);
 			dependencies = (
 			);
-			name = "skrip-tvOS";
-			productName = "skrip-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* skrip-tvOS.app */;
+			name = "TestBoilerplate-tvOS";
+			productName = "TestBoilerplate-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* TestBoilerplate-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* skrip-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* TestBoilerplate-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "skrip-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "TestBoilerplate-tvOSTests" */;
 			buildPhases = (
 				237001EB968EBF08AE82BA71 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -312,9 +312,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "skrip-tvOSTests";
-			productName = "skrip-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* skrip-tvOSTests.xctest */;
+			name = "TestBoilerplate-tvOSTests";
+			productName = "TestBoilerplate-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* TestBoilerplate-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -346,7 +346,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "skrip" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "TestBoilerplate" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -359,10 +359,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* skrip */,
-				00E356ED1AD99517003FC87E /* skripTests */,
-				2D02E47A1E0B4A5D006451C7 /* skrip-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* skrip-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* TestBoilerplate */,
+				00E356ED1AD99517003FC87E /* TestBoilerplateTests */,
+				2D02E47A1E0B4A5D006451C7 /* TestBoilerplate-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* TestBoilerplate-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -437,7 +437,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-skrip-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-TestBoilerplate-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -459,7 +459,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-skrip-skripTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-TestBoilerplate-TestBoilerplateTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -495,7 +495,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-skrip-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-TestBoilerplate-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -517,7 +517,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-skrip-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-TestBoilerplate-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -530,7 +530,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-skrip/Pods-skrip-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-TestBoilerplate/Pods-TestBoilerplate-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/MLKitFaceDetection/GoogleMVFaceDetectorResources.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
@@ -541,7 +541,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-skrip/Pods-skrip-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestBoilerplate/Pods-TestBoilerplate-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		C2521CB8091A6A3C11087000 /* [CP] Copy Pods Resources */ = {
@@ -550,7 +550,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-skrip-skripTests/Pods-skrip-skripTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-TestBoilerplate-TestBoilerplateTests/Pods-TestBoilerplate-TestBoilerplateTests-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/MLKitFaceDetection/GoogleMVFaceDetectorResources.bundle",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
@@ -561,7 +561,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-skrip-skripTests/Pods-skrip-skripTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TestBoilerplate-TestBoilerplateTests/Pods-TestBoilerplate-TestBoilerplateTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E7EF325C01D6A8B7E4CA240D /* [CP-User] [RNFB] Core Configuration */ = {
@@ -622,7 +622,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* skripTests.m in Sources */,
+				00E356F31AD99517003FC87E /* TestBoilerplateTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -648,7 +648,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* skripTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* TestBoilerplateTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -657,12 +657,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* skrip */;
+			target = 13B07F861A680F5B00A75B9A /* TestBoilerplate */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* skrip-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* TestBoilerplate-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -670,7 +670,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0D39CF27D6DB33A796DFCD0D /* Pods-skrip-skripTests.debug.xcconfig */;
+			baseConfigurationReference = 0D39CF27D6DB33A796DFCD0D /* Pods-TestBoilerplate-TestBoilerplateTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = Z74TXLB3CT;
@@ -682,7 +682,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
-				INFOPLIST_FILE = skripTests/Info.plist;
+				INFOPLIST_FILE = "TestBoilerplateTests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -696,13 +696,13 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/skrip.app/skrip";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestBoilerplate.app/TestBoilerplate";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E8C5B1A0FD1B4D2EF6CF0FC1 /* Pods-skrip-skripTests.release.xcconfig */;
+			baseConfigurationReference = E8C5B1A0FD1B4D2EF6CF0FC1 /* Pods-TestBoilerplate-TestBoilerplateTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -711,7 +711,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
-				INFOPLIST_FILE = skripTests/Info.plist;
+				INFOPLIST_FILE = "TestBoilerplateTests/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -725,17 +725,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/skrip.app/skrip";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestBoilerplate.app/TestBoilerplate";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 08DD61C34D7476D3DC663412 /* Pods-skrip.debug.xcconfig */;
+			baseConfigurationReference = 08DD61C34D7476D3DC663412 /* Pods-TestBoilerplate.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = skrip/skrip.entitlements;
+				CODE_SIGN_ENTITLEMENTS = TestBoilerplate/TestBoilerplate.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
@@ -745,7 +745,8 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
-				INFOPLIST_FILE = skrip/Info.plist;
+				INFOPLIST_FILE = "TestBoilerplate/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "Test-Boilerplate";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 5.7.5;
 				OTHER_LDFLAGS = (
@@ -754,7 +755,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.lasbontech.skripjatim;
-				PRODUCT_NAME = skrip;
+				PRODUCT_NAME = "TestBoilerplate";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -765,11 +766,11 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 974E5556CBCD6142DCEEA0EB /* Pods-skrip.release.xcconfig */;
+			baseConfigurationReference = 974E5556CBCD6142DCEEA0EB /* Pods-TestBoilerplate.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = skrip/skrip.entitlements;
+				CODE_SIGN_ENTITLEMENTS = TestBoilerplate/TestBoilerplate.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
@@ -778,7 +779,8 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
-				INFOPLIST_FILE = skrip/Info.plist;
+				INFOPLIST_FILE = "TestBoilerplate/Info.plist";
+             INFOPLIST_KEY_CFBundleDisplayName = "Test-Boilerplate";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 5.7.5;
 				OTHER_LDFLAGS = (
@@ -787,7 +789,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.lasbontech.skripjatim;
-				PRODUCT_NAME = skrip;
+				PRODUCT_NAME = "TestBoilerplate";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -797,7 +799,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5F5A69BE62CDA6A0DDD78C29 /* Pods-skrip-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 5F5A69BE62CDA6A0DDD78C29 /* Pods-TestBoilerplate-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -812,7 +814,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
-				INFOPLIST_FILE = "skrip-tvOS/Info.plist";
+				INFOPLIST_FILE = "TestBoilerplate-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -823,7 +825,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.skrip-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.TestBoilerplate-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -833,7 +835,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A84D9D512FB910EC1EBA4912 /* Pods-skrip-tvOS.release.xcconfig */;
+			baseConfigurationReference = A84D9D512FB910EC1EBA4912 /* Pods-TestBoilerplate-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -848,7 +850,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
-				INFOPLIST_FILE = "skrip-tvOS/Info.plist";
+				INFOPLIST_FILE = "TestBoilerplate-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -859,7 +861,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.skrip-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.TestBoilerplate-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -869,7 +871,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 393D9D791B6D1BDA425DEBCA /* Pods-skrip-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 393D9D791B6D1BDA425DEBCA /* Pods-TestBoilerplate-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -883,7 +885,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
-				INFOPLIST_FILE = "skrip-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "TestBoilerplate-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -894,17 +896,17 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.skrip-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.TestBoilerplate-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/skrip-tvOS.app/skrip-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestBoilerplate-tvOS.app/TestBoilerplate-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EB23479AE43C9372EFCBAFF4 /* Pods-skrip-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = EB23479AE43C9372EFCBAFF4 /* Pods-TestBoilerplate-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -918,7 +920,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
-				INFOPLIST_FILE = "skrip-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "TestBoilerplate-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -929,10 +931,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.skrip-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.TestBoilerplate-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/skrip-tvOS.app/skrip-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestBoilerplate-tvOS.app/TestBoilerplate-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -1055,7 +1057,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "skripTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "TestBoilerplateTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1064,7 +1066,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "skrip" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "TestBoilerplate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1073,7 +1075,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "skrip-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "TestBoilerplate-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1082,7 +1084,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "skrip-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "TestBoilerplate-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1091,7 +1093,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "skrip" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "TestBoilerplate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "skrip-tvOS.app"
-               BlueprintName = "skrip-tvOS"
-               ReferencedContainer = "container:skrip.xcodeproj">
+               BuildableName = "TestBoilerplate-tvOS.app"
+               BlueprintName = "TestBoilerplate-tvOS"
+               ReferencedContainer = "container:TestBoilerplate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "skrip-tvOSTests.xctest"
-               BlueprintName = "skrip-tvOSTests"
-               ReferencedContainer = "container:skrip.xcodeproj">
+               BuildableName = "TestBoilerplate-tvOSTests.xctest"
+               BlueprintName = "TestBoilerplate-tvOSTests"
+               ReferencedContainer = "container:TestBoilerplate.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "skrip-tvOS.app"
-            BlueprintName = "skrip-tvOS"
-            ReferencedContainer = "container:skrip.xcodeproj">
+            BuildableName = "TestBoilerplate-tvOS.app"
+            BlueprintName = "TestBoilerplate-tvOS"
+            ReferencedContainer = "container:TestBoilerplate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "skrip-tvOS.app"
-            BlueprintName = "skrip-tvOS"
-            ReferencedContainer = "container:skrip.xcodeproj">
+            BuildableName = "TestBoilerplate-tvOS.app"
+            BlueprintName = "TestBoilerplate-tvOS"
+            ReferencedContainer = "container:TestBoilerplate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

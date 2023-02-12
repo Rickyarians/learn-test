@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "skrip.app"
-               BlueprintName = "skrip"
-               ReferencedContainer = "container:skrip.xcodeproj">
+               BuildableName = "TestBoilerplate.app"
+               BlueprintName = "TestBoilerplate"
+               ReferencedContainer = "container:TestBoilerplate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "skripTests.xctest"
-               BlueprintName = "skripTests"
-               ReferencedContainer = "container:skrip.xcodeproj">
+               BuildableName = "TestBoilerplateTests.xctest"
+               BlueprintName = "TestBoilerplateTests"
+               ReferencedContainer = "container:TestBoilerplate.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "skrip.app"
-            BlueprintName = "skrip"
-            ReferencedContainer = "container:skrip.xcodeproj">
+            BuildableName = "TestBoilerplate.app"
+            BlueprintName = "TestBoilerplate"
+            ReferencedContainer = "container:TestBoilerplate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "skrip.app"
-            BlueprintName = "skrip"
-            ReferencedContainer = "container:skrip.xcodeproj">
+            BuildableName = "TestBoilerplate.app"
+            BlueprintName = "TestBoilerplate"
+            ReferencedContainer = "container:TestBoilerplate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

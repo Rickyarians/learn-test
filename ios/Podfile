@@ -4,7 +4,7 @@ permissions_path = '../node_modules/react-native-permissions/ios'
 
 platform :ios, '10.0'
 
-target 'skrip' do
+target 'TestBoilerplate' do
   config = use_native_modules!
   pod 'Permission-Camera', :path => "#{permissions_path}/Camera"
   pod 'Permission-Microphone', :path => "#{permissions_path}/Microphone"
@@ -27,7 +27,7 @@ target 'skrip' do
   pod 'rn-fetch-blob', :path => '../node_modules/rn-fetch-blob'
   pod 'react-native-in-app-review', :path => '../node_modules/react-native-in-app-review'
 
-  target 'skripTests' do
+  target 'TestBoilerplateTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -42,10 +42,10 @@ target 'skrip' do
   # end
 end
 
-target 'skrip-tvOS' do
-  # Pods for skrip-tvOS
+target 'TestBoilerplate-tvOS' do
+  # Pods for TestBoilerplate-tvOS
 
-  target 'skrip-tvOSTests' do
+  target 'TestBoilerplate-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
