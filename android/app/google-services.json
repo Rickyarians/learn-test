@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "564577646934",
+    "project_id": "skrip-a2aec",
+    "storage_bucket": "skrip-a2aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564577646934:android:b64011e7cca6aa2a197ef7",
+        "android_client_info": {
+          "package_name": "com.lasbon.skripjatim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564577646934-g43pdha7j66j7gr3c6uj1n34ekqamanv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lasbon.skripjatim",
+            "certificate_hash": "e2a124bdfbb50ba0e5ae228e27cc0a299e2672c8"
+          }
+        },
+        {
+          "client_id": "564577646934-g8a3t5g6mmvgj1p28f5v635lr312irss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lasbon.skripjatim",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "564577646934-rcsfj1jsb038nea2anp59t8tduaess6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lasbon.skripjatim",
+            "certificate_hash": "3a67f940175c395ec4c12974377343323d79427d"
+          }
+        },
+        {
+          "client_id": "564577646934-n4g884j4toh8g1rikkl5p7ge2t1ku71q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGzyBwSpTcYa3scR7TCKUE5VIwfFci0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564577646934-n4g884j4toh8g1rikkl5p7ge2t1ku71q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "564577646934-l36s1eu3va3n07j7o09q1qgcha7l907t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lasbontech.skripjatim",
+                "app_store_id": "1589597604"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
