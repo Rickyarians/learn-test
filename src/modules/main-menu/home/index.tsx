@@ -14,7 +14,7 @@ import { images } from 'app/themes';
 import { useSelector } from 'react-redux';
 import { FeatureScr } from 'app/components/pages/upcoming';
 
-const HomePageScr = ({route}) => {
+const HomePageScr = ({route})=> {
   const { colors } = useTheme();
   const params = route?.params
   const { user_data }: AuthState = useSelector(({ auth }: any) => auth);
@@ -38,7 +38,7 @@ const HomePageScr = ({route}) => {
   return (
     <Layout>
       <HeaderHomeScr />
-      <FeatureScr />
+      <FeatureScr height={90}/>
     </Layout>
   );
 };
